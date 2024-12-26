@@ -24,18 +24,12 @@ in the data.
 - **Machine learning models** to predict outcomes based on patient metrics.
 - **Visualization scripts** to present findings in an intuitive manner.
 
-## Technologies Used
-- **Python** for data processing, analysis, and modeling.
-- **Pandas and NumPy** for data manipulation.
-- **Matplotlib and Seaborn** for visualization.
-- **Scikit-learn** for machine learning algorithms.
-
 ## Getting Started
 To get started with this project, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gholinasabmaryam/Diabetic-patient-data-analysis.git
+   git clone https://github.com/sajjadashrafian02/Diabetic-patient-data-analysis
    cd Diabetic-patient-data-analysis
    ```
 
@@ -62,15 +56,6 @@ and outliers.
 - Integrate deep learning models for more complex analysis.
 - Explore real-time prediction capabilities.
 
-## Contributing
-Contributions are welcome! If you have ideas or improvements, feel free to:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request.
-
 ## License
 This project does not have a formal license. You are free to use,
 modify, and share it as needed.
@@ -78,6 +63,12 @@ modify, and share it as needed.
 ## Feedback
 Have suggestions or feedback? Feel free to reach out on GitHub:
 
-**GitHub:** [@gholinasabmaryam](https://github.com/gholinasabmaryam)
+[GitHub](https://github.com/sajjadashrafian02)
+
+[LinkedIn](https://www.linkedin.com/in/sajjadashrafian/)
 
 Thank you for visiting this repository, and happy coding!
+
+
+
+
